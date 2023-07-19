@@ -15,8 +15,8 @@ router.get('/', async function (req, res) {
     address,
     {
       color: {
-        dark: '#170034',
-        light: '#e238a5',
+        dark: '#000000',
+        light: '#FFFFFF',
       },
       width: 256,
     },
